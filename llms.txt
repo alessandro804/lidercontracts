@@ -1,0 +1,20 @@
+# Lider Contracts
+
+> Send a voice note on WhatsApp and get a contract, estimate or invoice back in English, branded with your company. Built for service pros in the United States.
+
+Contracts, estimates and invoices in English, generated from a voice note on WhatsApp, for service professionals working in the United States. Available in English, Spanish and Portuguese.
+
+## Pages
+- [English](https://lidercontracts.com/en/): main page in English
+- [Espanol](https://lidercontracts.com/es/): main page in Spanish
+- [Portugues](https://lidercontracts.com/): main page in Portuguese
+
+## Pricing
+- Free: $0. 1 contract and 1 invoice
+- Plus: $4 /month ($48 a year, billed once). 120 documents a year
+- Pro: $18 /month ($216 a year, billed once). Unlimited documents
+
+## How it works
+1. Talk Client, job and price, in one voice note.
+2. Check Read the summary and tap Generate PDF.
+3. Send In English, with your brand, ready to sign.
